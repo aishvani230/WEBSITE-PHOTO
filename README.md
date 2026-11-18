@@ -902,4 +902,6 @@ npm run dev
 ```
 #   W E B S I T E - P H O T O  
  #   S H O O T - A  
+ #   S h o o t s  
+ #   S h o o t s  
  
